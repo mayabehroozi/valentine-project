@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2025 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="heart" unicode="&#xe800;" d="M775 849q126 0 207-80t81-207v-60q0-285-532-653-531 367-531 653v60q0 127 81 207t206 80q81 0 134-30t110-99q58 68 111 99t133 30z" horiz-adv-x="1063" />
+
+<glyph glyph-name="mobile" unicode="&#xe801;" d="M0-56l0 812q0 39 27 67t67 27l500 0q39 0 66-27t28-67l0-812q0-39-28-67t-66-27l-500 0q-39 0-67 27t-27 67z m63 0q0-14 8-23t23-9l500 0q13 0 22 9t9 23l0 62-562 0 0-62z m0 94l562 0 0 624-562 0 0-624z m0 656l562 0 0 62q0 14-9 23t-22 8l-500 0q-14 0-23-8t-8-23l0-62z m218 47q0 15 16 15l94 0q15 0 15-15t-15-16l-94 0q-16 0-16 16z m32-782q0 16 15 16l31 0q16 0 16-16t-16-15l-31 0q-15 0-15 15z" horiz-adv-x="687" />
+
+<glyph glyph-name="mail" unicode="&#xe802;" d="M834 688q44 0 74-30t30-74l0-468q0-43-30-74t-74-30l-730 0q-44 0-74 30t-30 74l0 468q0 44 30 74t74 30l730 0z m-421-454l-82 72-190-190 655 0-190 190-81-72q-24-20-56-20t-56 20z m-309-82l187 189-187 163 0-352z m542 189l188-188 0 351z m188 243l-730 0 0-11 342-300q9-7 23-7t22 7l343 300 0 11z" horiz-adv-x="938" />
+
+<glyph glyph-name="linkedin" unicode="&#xf0e1;" d="M195 501v-553h-184v553h184z m12 171q0-41-29-68t-75-27h-1q-46 0-74 27t-28 68q0 41 29 68t75 27 74-27 29-68z m650-407v-317h-183v296q0 59-23 92t-71 33q-35 0-58-19t-36-48q-6-17-6-45v-309h-184q1 223 1 361t0 165l-1 27h184v-80h-1q11 18 23 31t31 29 49 24 64 9q95 0 153-63t58-186z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="instagram" unicode="&#xf31e;" d="M749 849h-498c-138 0-249-111-249-248v-502c0-137 111-248 249-248h498c138 0 250 111 250 248v502c0 137-112 248-250 248z m157-750c0-86-70-156-157-156h-498c-87 0-157 70-157 156v324h197c-14-30-23-64-23-100 0-130 107-236 237-236 131 0 237 106 237 236 0 36-8 70-23 100h187v-324z m-499 224c0 54 44 98 98 98 54 0 98-44 98-98 0-54-44-98-98-98-54 0-98 44-98 98z m499 192h-264c-39 28-86 44-137 44-51 0-98-16-137-44h-274v86c0 86 70 156 157 156h498c87 0 157-70 157-156v-86h0z m-100 186h-85c-15 0-28-12-28-27v-86c0-15 13-27 28-27h85c16 0 28 12 28 27v86c0 15-12 27-28 27z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

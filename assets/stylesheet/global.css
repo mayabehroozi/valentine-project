@@ -1,0 +1,48 @@
+*{
+    padding: 0;margin: 0;box-sizing: border-box;
+    background-color: rgb(236, 230, 232);
+    font-family: maya;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+    &:visited{
+        color: inherit;
+    }
+}
+
+.row{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.icon-instagram , .icon-mobile ,.icon-mail , .icon-linkedin , .icon-heart{
+    color: rgb(255, 252, 252);
+     font-size: 30px;
+     background-color: transparent;
+
+}
+@font-face {
+    font-family: maya;
+    src: url(../font/Dongle-Light.ttf);
+}
+
+.botton{
+    
+        width: 100px;
+        height: 50px;
+        background-color:rgb(218, 9, 23);
+        color: white;
+        font-size: 30px;
+        display: flex;
+        justify-content: center;align-items: center;
+        border-radius: 10px;
+       
+
+}
